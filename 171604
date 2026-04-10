@@ -1,0 +1,11 @@
+<IDOCTYPE html>
+    <html>
+        <head>
+            <title>Paragraph Example </title>
+        </head>
+        <body>
+            <P>Here is a first paragraph of text</P>
+            <P>Here is a second paragraph of text</P>
+            <P>Here is a third paragraph of text</P>
+        </body>
+    </html>
